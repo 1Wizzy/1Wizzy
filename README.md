@@ -2,7 +2,7 @@
 - 👀 I’m interested in Algorithm AI BlockChain
 - 🌱 I’m currently learning Algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Wizzy-Ang@qq.mail
+- 📫 How to reach me wizzy-ang@qq.com
 
 <!---
 1Wizzy/1Wizzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
