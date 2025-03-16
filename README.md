@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Wizzy
 - 👀 I’m interested in Algorithm AI BlockChain
-- 🌱 I’m currently learning Algorithm
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wizzy-ang@qq.com
 
